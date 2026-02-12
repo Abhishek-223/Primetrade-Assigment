@@ -1,4 +1,4 @@
-# Backend Assignment
+# Full Stack Assignment
 
 Monorepo containing:
 - `backend`: Node.js + Express + MongoDB API with JWT auth
